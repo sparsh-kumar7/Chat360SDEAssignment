@@ -1,0 +1,14 @@
+{
+    "name": "log-ingestor",
+    "version": "1.0.0",
+    "description": "Log Ingestor Application",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js --port 3000"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "inquirer": "^8.2.6",
+        "mongoose": "^6.0.12"
+    }
+}

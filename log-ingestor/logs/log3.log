@@ -1,0 +1,56 @@
+[
+  {
+    "requestData": {
+      "level": "error",
+      "log_string": "Inside the Search API",
+      "timestamp": "2023-09-15T08:00:00Z",
+      "metadata": {
+        "source": "log3.log"
+      }
+    },
+    "responseData": {
+      "level": "error",
+      "log_string": "Inside the Search API",
+      "timestamp": "2023-09-15T08:00:00Z",
+      "metadata": {
+        "source": "log3.log"
+      }
+    }
+  },
+  {
+    "requestData": {
+      "level": "error",
+      "log_string": "Inside the Search API new version",
+      "timestamp": "2023-09-15T08:00:00Z",
+      "metadata": {
+        "source": "log3.log"
+      }
+    },
+    "responseData": {
+      "level": "error",
+      "log_string": "Inside the Search API new version",
+      "timestamp": "2023-09-15T08:00:00Z",
+      "metadata": {
+        "source": "log3.log"
+      }
+    }
+  },
+  {
+    "requestData": {
+      "level": "info",
+      "log_string": "testing",
+      "timestamp": "2024-05-14T15:16:21.050Z",
+      "metadata": {
+        "source": "log3.log"
+      }
+    },
+    "responseData": {
+      "level": "info",
+      "log_string": "testing",
+      "timestamp": "2024-05-14T15:16:21.050Z",
+      "metadata": {
+        "source": "log3.log"
+      }
+    }
+  }
+]
